@@ -19,7 +19,7 @@ Sample Output
 WEDNESDAY
 
 Explanation
-The day on August th  was WEDNESDAY.
+The day on August 5th  was WEDNESDAY.
 
 */
 
