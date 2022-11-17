@@ -30,7 +30,7 @@ Each line contains the value of  formatted according to the four countries' resp
 import java.util.*;
 import java.text.*;
 
-public class Solution {
+class Solution {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
